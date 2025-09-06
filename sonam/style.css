@@ -1,0 +1,21 @@
+body{
+    background-image: url('beef1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.custom-text{
+    color: white;
+    
+}
+.navbar {
+  background-color: rgba(131, 18, 18, 0.7) !important; /* semi-transparent black */
+}
+.navbar .navbar-brand,
+.navbar .nav-link {
+  color: white !important;
+}
+.navbar .nav-link:hover,
+.navbar .nav-link:focus,
+.navbar .nav-link.active {
+  color: #f8f9fa !important;
+}
